@@ -1,1 +1,1 @@
-# SolidWorks-Portfolio
+This repository exhibits my Solidworks Portfolio. 
